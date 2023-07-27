@@ -19,6 +19,7 @@ The code expects the dataset to be organized in separate directories for each cl
 
 data/
     ├── NORMAL/
+    
     │   ├── image1.png
     │   ├── image2.png
     │   └── ...
